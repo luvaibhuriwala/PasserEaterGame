@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675075748 source:c:\users\luvai\desktop\uni stuff\1st semester\csc1103 fundamentals of programming\final project\passer-eater\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
